@@ -23,9 +23,9 @@ To install and run this project, follow these steps:
 
 ## Features
 
-All CRUD (Create, Read, Update, Delete) methods covered.
+- All CRUD (Create, Read, Update, Delete) methods covered.
 
-Multiple data model, images upload, input validation.
+- Multiple data model, images upload, input validation.
 
-Authentication and authorization required.
+- Authentication and authorization required.
 
