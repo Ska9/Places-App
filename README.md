@@ -15,7 +15,7 @@ To install and run this project, follow these steps:
 1. Clone the repository:
    git clone https://github.com/Ska9/Places-App.git
    
-2. cd your-project
+2. cd Places-App
   
 3. npm install
 
