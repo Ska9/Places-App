@@ -6,28 +6,26 @@ App where users can share places (with images and location) with others.
 
 ## Table of Contents
 - [Installation](#installation)
-- [Usage](#usage)
 - [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
-Instructions on how to install the project and its dependencies.
+To install and run this project, follow these steps:
 
-## Usage
+1. Clone the repository:
+   git clone https://github.com/Ska9/Places-App.git
+   
+2. cd your-project
+  
+3. npm install
 
-Instructions on how to use the project and any relevant examples or screenshots.
+4. npm start
 
 ## Features
 
-List of the project's main features or highlights.
+All CRUD (Create, Read, Update, Delete) methods covered.
 
-## Contributing
+Multiple data model, images upload, input validation.
 
-Guidelines on how to contribute to the project and instructions for setting up a development environment.
-
-## License
-
-Information about the project's license and any applicable terms or restrictions.
+Authentication and authorization required.
 
