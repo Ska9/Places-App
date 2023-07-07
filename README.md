@@ -1,10 +1,8 @@
 # Places-App
 
-# Project Name
+App where users can share places (with images and location) with others.
 
-Short description of the project.
-
-![Project Image](images/project-image.png)
+![Project Image](PLACES.jpg)
 
 ## Table of Contents
 - [Installation](#installation)
